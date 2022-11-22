@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelUdemagwuna
 - 👀 I’m interested in software dev and cybersecurity
-- 🌱 I’m currently learning Frontend development 
+- 🌱 I’m currently studying software Engineering
 - 💞️ I’m looking to collaborate on exciting software projects
 - 📫 How to reach me at samueludemagwuna@gmail.com
 
